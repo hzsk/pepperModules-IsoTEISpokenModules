@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:isoSpoken="http://iso-tei-spoken.org/ns/1.0" xmlns:standoff="http://standoff.proposal" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:tesla="http://www.exmaralda.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.tei-c.org/ns/1.0">
+
+  <text>
+    <timeline unit="s">
+      <when absolute="00:00:00.0" xml:id="T0"/>
+      <when interval="1.2532790062010444" since="#T0" xml:id="T1"/>
+      <when interval="1.7532573331429504" since="#T0" xml:id="T2"/>
+      <when interval="2.0964522951965856" since="#T0" xml:id="T3"/>
+      <when interval="3.619843087059399" since="#T0" xml:id="T4"/>
+      <when interval="3.9331628386096606" since="#T0" xml:id="T5"/>
+      <when interval="4.346478255548303" since="#T0" xml:id="T6"/>
+      <when interval="5.55434256371879" since="#T0" xml:id="T7"/>
+      <when interval="6.086402833306135" since="#T0" xml:id="T8"/>
+      <when interval="7.593004191824412" since="#T0" xml:id="T9"/>
+      <when interval="7.986320475685378" since="#T0" xml:id="T10"/>
+      <when interval="8.241865225155735" since="#T0" xml:id="T11"/>
+      <when interval="8.812951309562665" since="#T0" xml:id="T12"/>
+      <when interval="9.242610419076666" since="#T0" xml:id="T13"/>
+      <when interval="9.919570006527413" since="#T0" xml:id="T14"/>
+      <when interval="14.639365412859007" since="#T0" xml:id="T15"/>
+      <when interval="15.019348941334856" since="#T0" xml:id="T16"/>
+      <when interval="15.406649860949804" since="#T0" xml:id="T17"/>
+      <when interval="16.399289123694516" since="#T0" xml:id="T18"/>
+      <when interval="16.925932961406655" since="#T0" xml:id="T19"/>
+      <when interval="17.239252712956922" since="#T0" xml:id="T20"/>
+      <when interval="17.38591302219321" since="#T0" xml:id="T21"/>
+      <when interval="17.925889615290473" since="#T0" xml:id="T22"/>
+      <when interval="18.07921630221932" since="#T0" xml:id="T23"/>
+      <when interval="18.35920416530679" since="#T0" xml:id="T24"/>
+      <when interval="18.859182492248692" since="#T0" xml:id="T25"/>
+      <when interval="20.199124408453002" since="#T0" xml:id="T26"/>
+      <when interval="20.97242422078982" since="#T0" xml:id="T27"/>
+      <when interval="21.479068925424283" since="#T0" xml:id="T28"/>
+      <when interval="22.212370471605745" since="#T0" xml:id="T29"/>
+      <when interval="23.532313254732376" since="#T0" xml:id="T30"/>
+      <when interval="24.19895102398825" since="#T0" xml:id="T31"/>
+      <when interval="25.972207490208874" since="#T0" xml:id="T32"/>
+      <when interval="28.158779373368148" since="#T0" xml:id="T33"/>
+      <when interval="29.298729958795693" since="#T0" xml:id="T34"/>
+      <when interval="29.558718688805484" since="#T0" xml:id="T35"/>
+      <when interval="29.905370328818538" since="#T0" xml:id="T36"/>
+      <when interval="31.018655403475847" since="#T0" xml:id="T37"/>
+      <when interval="31.311976021948436" since="#T0" xml:id="T38"/>
+      <when interval="32.05194394582245" since="#T0" xml:id="T39"/>
+      <when interval="33.73853750203982" since="#T0" xml:id="T40"/>
+      <when interval="33.83265106946418" since="#T0" xml:id="T41"/>
+      <when interval="34.53850282514687" since="#T0" xml:id="T42"/>
+      <when interval="34.87848808746736" since="#T0" xml:id="T43"/>
+      <when interval="35.21847334978786" since="#T0" xml:id="T44"/>
+      <when interval="35.51179396826045" since="#T0" xml:id="T45"/>
+      <when interval="37.87040078547978" since="#T0" xml:id="T46"/>
+      <when interval="39.01601602997926" since="#T0" xml:id="T47"/>
+      <when interval="39.71156814271109" since="#T0" xml:id="T48"/>
+      <when interval="41.05273797481569" since="#T0" xml:id="T49"/>
+      <when interval="53.076207873156896" since="#T0" xml:id="T50"/>
+      <when interval="53.511013738169055" since="#T0" xml:id="T51"/>
+      <when interval="53.899652490416635" since="#T0" xml:id="T52"/>
+      <when interval="54.39097559358681" since="#T0" xml:id="T53"/>
+      <when interval="54.96574885540158" since="#T0" xml:id="T54"/>
+      <when interval="55.32757561885346" since="#T0" xml:id="T55"/>
+      <when interval="56.22422945904047" since="#T0" xml:id="T56"/>
+      <when interval="57.55083861985966" since="#T0" xml:id="T57"/>
+      <when interval="57.91764495090025" since="#T0" xml:id="T58"/>
+      <when interval="58.17422305572749" since="#T0" xml:id="T59"/>
+      <when interval="60.85852229365857" since="#T0" xml:id="T60"/>
+      <when interval="61.820484268447444" since="#T0" xml:id="T61"/>
+      <when interval="63.76439026321853" since="#T0" xml:id="T62"/>
+      <when interval="64.77026763729697" since="#T0" xml:id="T63"/>
+      <when interval="65.98202634525113" since="#T0" xml:id="T64"/>
+      <when interval="66.55044850481396" since="#T0" xml:id="T65"/>
+      <when interval="67.01335812610995" since="#T0" xml:id="T66"/>
+      <when interval="67.48374138177219" since="#T0" xml:id="T67"/>
+      <when interval="67.73039735639686" since="#T0" xml:id="T68"/>
+      <when interval="68.44750168802844" since="#T0" xml:id="T69"/>
+      <when interval="68.72565369319668" since="#T0" xml:id="T70"/>
+      <when interval="69.34121095575041" since="#T0" xml:id="T71"/>
+      <when interval="69.62492460743877" since="#T0" xml:id="T72"/>
+      <when interval="70.34751047229018" since="#T0" xml:id="T73"/>
+      <when interval="73.33493112652633" since="#T0" xml:id="T74"/>
+      <when interval="76.09570530998488" since="#T0" xml:id="T75"/>
+      <when interval="78.76431601701992" since="#T0" xml:id="T76"/>
+      <when interval="79.36322642991189" since="#T0" xml:id="T77"/>
+      <when interval="79.45217872366065" since="#T0" xml:id="T78"/>
+      <when interval="79.77654184685052" since="#T0" xml:id="T79"/>
+      <when interval="80.07652884301567" since="#T0" xml:id="T80"/>
+      <when interval="80.36318308379569" since="#T0" xml:id="T81"/>
+      <when interval="81.2537239077197" since="#T0" xml:id="T82"/>
+      <when interval="83.39958719113582" since="#T0" xml:id="T83"/>
+      <when interval="84.08968821393604" since="#T0" xml:id="T84"/>
+      <when interval="84.64966394011095" since="#T0" xml:id="T85"/>
+      <when interval="85.06964573474217" since="#T0" xml:id="T86"/>
+      <when interval="86.58075210631051" since="#T0" xml:id="T87"/>
+      <when interval="90.25249444728429" since="#T0" xml:id="T88"/>
+      <when interval="91.16766264793456" since="#T0" xml:id="T89"/>
+      <when interval="91.63484054616404" since="#T0" xml:id="T90"/>
+      <when interval="91.9235953557212" since="#T0" xml:id="T91"/>
+      <when interval="92.38932844117167" since="#T0" xml:id="T92"/>
+      <when interval="92.52902290652999" since="#T0" xml:id="T93"/>
+      <when interval="92.79220160242784" since="#T0" xml:id="T94"/>
+      <when interval="92.96447929078543" since="#T0" xml:id="T95"/>
+      <when interval="93.31595494043732" since="#T0" xml:id="T96"/>
+      <when interval="94.87011864992512" since="#T0" xml:id="T97"/>
+      <when interval="96.00658700484831" since="#T0" xml:id="T98"/>
+      <when interval="98.2465725254867" since="#T0" xml:id="T99"/>
+      <when interval="100.03566365453656" since="#T0" xml:id="T100"/>
+      <when interval="102.63792064357987" since="#T0" xml:id="T101"/>
+      <when interval="104.17674065756735" since="#T0" xml:id="T102"/>
+      <when interval="106.68770721439063" since="#T0" xml:id="T103"/>
+      <when interval="108.6543720820554" since="#T0" xml:id="T104"/>
+      <when interval="110.49004120739569" since="#T0" xml:id="T105"/>
+      <when interval="111.10185062418408" since="#T0" xml:id="T106"/>
+      <when interval="111.32184108803851" since="#T0" xml:id="T107"/>
+      <when interval="111.73515650497716" since="#T0" xml:id="T108"/>
+      <when interval="112.47004652396818" since="#T0" xml:id="T109"/>
+      <when interval="116.26804595080742" since="#T0" xml:id="T110"/>
+      <when interval="117.3215810113414" since="#T0" xml:id="T111"/>
+      <when interval="117.74822918366515" since="#T0" xml:id="T112"/>
+      <when interval="118.37000233088067" since="#T0" xml:id="T113"/>
+      <when interval="120.02057859854038" since="#T0" xml:id="T114"/>
+      <when interval="120.6582262988135" since="#T0" xml:id="T115"/>
+      <when interval="121.62252738643876" since="#T0" xml:id="T116"/>
+      <when interval="123.53586892608563" since="#T0" xml:id="T117"/>
+      <when interval="124.63389424555606" since="#T0" xml:id="T118"/>
+      <when interval="124.97458260239884" since="#T0" xml:id="T119"/>
+      <when interval="125.47456092934071" since="#T0" xml:id="T120"/>
+      <when interval="125.78788068089099" since="#T0" xml:id="T121"/>
+      <when interval="126.30785814091058" since="#T0" xml:id="T122"/>
+      <when interval="126.62784427015339" since="#T0" xml:id="T123"/>
+      <when interval="126.85774315866416" since="#T0" xml:id="T124"/>
+      <when interval="127.30446858567917" since="#T0" xml:id="T125"/>
+      <when interval="127.62975902781474" since="#T0" xml:id="T126"/>
+      <when interval="128.1409297225992" since="#T0" xml:id="T127"/>
+      <when interval="128.67442222176894" since="#T0" xml:id="T128"/>
+      <when interval="129.4479954597533" since="#T0" xml:id="T129"/>
+      <when interval="131.08170411674922" since="#T0" xml:id="T130"/>
+      <when interval="131.54588629122503" since="#T0" xml:id="T131"/>
+      <when interval="132.04797390173374" since="#T0" xml:id="T132"/>
+      <when interval="132.5542540388381" since="#T0" xml:id="T133"/>
+      <when interval="133.26091611478722" since="#T0" xml:id="T134"/>
+      <when interval="134.2875706013852" since="#T0" xml:id="T135"/>
+      <when interval="137.1169683612199" since="#T0" xml:id="T136"/>
+      <when interval="137.9273544590405" since="#T0" xml:id="T137"/>
+      <when interval="138.30067160982378" since="#T0" xml:id="T138"/>
+      <when interval="139.52951157124176" since="#T0" xml:id="T139"/>
+      <when interval="142.83184238015517" since="#T0" xml:id="T140"/>
+      <when interval="143.89340540764312" since="#T0" xml:id="T141"/>
+      <when interval="145.9816303655253" since="#T0" xml:id="T142"/>
+      <when interval="146.75363852398826" since="#T0" xml:id="T143"/>
+      <when interval="147.40673521355612" since="#T0" xml:id="T144"/>
+      <when interval="148.0335830409595" since="#T0" xml:id="T145"/>
+      <when interval="148.60005588133092" since="#T0" xml:id="T146"/>
+      <when interval="150.92278071669935" since="#T0" xml:id="T147"/>
+      <when interval="151.57342959570823" since="#T0" xml:id="T148"/>
+      <when interval="153.234" since="#T0" xml:id="T149"/>
+    </timeline>
+    <body>
+      <annotationGrp end="#T4" start="#T0" who="#SPK0" xml:id="au1" xmlns="http://standoff.proposal">
+        <u xml:id="u1" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg0"><pause dur="PT1.3S"/><anchor synch="#T1"/>
+            <w xml:id="w1">ach</w>
+            <w xml:id="w2">ja</w><anchor synch="#T2"/>
+            <w xml:id="w3">hallo</w><anchor synch="#T3"/>
+            <w xml:id="w4">wie</w>
+            <w xml:id="w5">ist</w>
+            <w xml:id="w6">es</w>
+            <w xml:id="w7">denn</w>
+            <w xml:id="w8">so</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T2" to="#T3">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T0" to="#T4">Jan</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T0" to="#T4">Janis</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T0" to="#T4">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T0" to="#T4">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T0" to="#T4">deu;eng</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T0" to="#T4">ell</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+
+    </body>
+  </text>
+</TEI>

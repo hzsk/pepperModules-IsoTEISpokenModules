@@ -1,0 +1,17 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    
+    <text>
+        <body>
+            
+                            <p><w lemma="auch" type="ADVERB">auch</w><lb/> 
+				<w lemma="sein" type="VERB">ist</w> 
+				<lb/>
+                                
+                            </p>
+                
+        </body>
+    </text>
+</TEI>
+

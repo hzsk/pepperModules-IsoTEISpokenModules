@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1449760177464
+Build-Jdk: 1.7.0_91
+Built-By: andre
+Bundle-Description: This module will allow converting from TEI-XML to Sa
+ lt and the other way around
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: pepperModules-IsoTEIModules
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-SymbolicName: de.hu_berlin.german.korpling.saltnpepper.pepperModu
+ les-IsoTEIModules;singleton:=true
+Bundle-Vendor: Humboldt-Universität zu Berlin
+Bundle-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: de.hu_berlin.german.korpling.saltnpepper.pepperModules.T
+ EIModules;uses:="de.hu_berlin.german.korpling.saltnpepper.pepper.module
+ s.exceptions,org.eclipse.emf.common.util,de.hu_berlin.german.korpling.s
+ altnpepper.pepper.modules.impl,de.hu_berlin.german.korpling.saltnpepper
+ .pepper.modules,de.hu_berlin.german.korpling.saltnpepper.salt.saltCore,
+ de.hu_berlin.german.korpling.saltnpepper.pepper.common,de.hu_berlin.ger
+ man.korpling.saltnpepper.salt.saltCommon.sCorpusStructure,org.slf4j,de.
+ hu_berlin.german.korpling.saltnpepper.salt.saltCommon.sDocumentStructur
+ e.tokenizer,com.neovisionaries.i18n,de.hu_berlin.german.korpling.saltnp
+ epper.salt.saltCommon.sDocumentStructure,org.xml.sax,de.hu_berlin.germa
+ n.korpling.saltnpepper.salt.graph,de.hu_berlin.german.korpling.saltnpep
+ per.salt,org.xml.sax.ext,org.xml.sax.helpers";version="1.0"
+Import-Package: com.neovisionaries.i18n;version="[2.1,3)",de.hu_berlin.g
+ erman.korpling.saltnpepper.pepper.common;version="[2.1,3)",de.hu_berlin
+ .german.korpling.saltnpepper.pepper.modules;version="[2.1,3)",de.hu_ber
+ lin.german.korpling.saltnpepper.pepper.modules.exceptions;version="[2.1
+ ,3)",de.hu_berlin.german.korpling.saltnpepper.pepper.modules.impl;versi
+ on="[2.1,3)",de.hu_berlin.german.korpling.saltnpepper.salt;version="[2.
+ 1,3)",de.hu_berlin.german.korpling.saltnpepper.salt.graph;version="[2.1
+ ,3)",de.hu_berlin.german.korpling.saltnpepper.salt.saltCommon.sCorpusSt
+ ructure;version="[2.1,3)",de.hu_berlin.german.korpling.saltnpepper.salt
+ .saltCommon.sDocumentStructure;version="[2.1,3)",de.hu_berlin.german.ko
+ rpling.saltnpepper.salt.saltCommon.sDocumentStructure.tokenizer;version
+ ="[2.1,3)",de.hu_berlin.german.korpling.saltnpepper.salt.saltCore;versi
+ on="[2.1,3)",org.eclipse.emf.common.util,org.slf4j;version="[1.7,2)",or
+ g.xml.sax,org.xml.sax.ext,org.xml.sax.helpers
+META-INF: /home/andre/pepperModules-IsoTEISpokenModules/META-INF
+OSGI-INF: OSGI-INF
+Service-Component: OSGI-INF/service-component/*.xml
+Tool: Bnd-1.50.0

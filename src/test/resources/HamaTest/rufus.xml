@@ -1,0 +1,2737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:isoSpoken="http://iso-tei-spoken.org/ns/1.0" xmlns:standoff="http://standoff.proposal" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:tesla="http://www.exmaralda.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.tei-c.org/ns/1.0">
+
+  <text>
+    <timeline unit="s">
+      <when absolute="00:00:00.0" xml:id="T0"/>
+      <when interval="3.173288596186821" since="#T0" xml:id="T1"/>
+      <when interval="3.8866118730607493" since="#T0" xml:id="T2"/>
+      <when interval="4.793265757685555" since="#T0" xml:id="T3"/>
+      <when interval="6.093247430493182" since="#T0" xml:id="T4"/>
+      <when interval="6.93323558830734" since="#T0" xml:id="T5"/>
+      <when interval="7.819889754888952" since="#T0" xml:id="T6"/>
+      <when interval="8.793209366324406" since="#T0" xml:id="T7"/>
+      <when interval="9.366534616895974" since="#T0" xml:id="T8"/>
+      <when interval="10.373187091736751" since="#T0" xml:id="T9"/>
+      <when interval="12.27982687852127" since="#T0" xml:id="T10"/>
+      <when interval="13.813138595166164" since="#T0" xml:id="T11"/>
+      <when interval="15.159786276741242" since="#T0" xml:id="T12"/>
+      <when interval="16.266437341797992" since="#T0" xml:id="T13"/>
+      <when interval="19.053064722483057" since="#T0" xml:id="T14"/>
+      <when interval="19.197396997576842" since="#T0" xml:id="T15"/>
+      <when interval="19.619723400373562" since="#T0" xml:id="T16"/>
+      <when interval="20.779707046878826" since="#T0" xml:id="T17"/>
+      <when interval="21.84635867584919" since="#T0" xml:id="T18"/>
+      <when interval="23.246338938872785" since="#T0" xml:id="T19"/>
+      <when interval="24.31965714052421" since="#T0" xml:id="T20"/>
+      <when interval="24.739651219431288" since="#T0" xml:id="T21"/>
+      <when interval="25.186311589062626" since="#T0" xml:id="T22"/>
+      <when interval="26.032966319557854" since="#T0" xml:id="T23"/>
+      <when interval="27.346281137727605" since="#T0" xml:id="T24"/>
+      <when interval="27.999605260471956" since="#T0" xml:id="T25"/>
+      <when interval="29.852912465807954" since="#T0" xml:id="T26"/>
+      <when interval="32.499541820190665" since="#T0" xml:id="T27"/>
+      <when interval="35.49283295398873" since="#T0" xml:id="T28"/>
+      <when interval="35.93282675093901" since="#T0" xml:id="T29"/>
+      <when interval="36.9928118072283" since="#T0" xml:id="T30"/>
+      <when interval="38.05279686351759" since="#T0" xml:id="T31"/>
+      <when interval="38.45056903348779" since="#T0" xml:id="T32"/>
+      <when interval="38.84834120345799" since="#T0" xml:id="T33"/>
+      <when interval="39.24611337342819" since="#T0" xml:id="T34"/>
+      <when interval="39.4127776904548" since="#T0" xml:id="T35"/>
+      <when interval="39.572775434800356" since="#T0" xml:id="T36"/>
+      <when interval="39.912770641534664" since="#T0" xml:id="T37"/>
+      <when interval="41.072754288039924" since="#T0" xml:id="T38"/>
+      <when interval="41.77941099223279" since="#T0" xml:id="T39"/>
+      <when interval="42.359402815485424" since="#T0" xml:id="T40"/>
+      <when interval="43.159391537213196" since="#T0" xml:id="T41"/>
+      <when interval="43.7460499331469" since="#T0" xml:id="T42"/>
+      <when interval="44.489372787085614" since="#T0" xml:id="T43"/>
+      <when interval="45.23269564102433" since="#T0" xml:id="T44"/>
+      <when interval="45.44602596681841" since="#T0" xml:id="T45"/>
+      <when interval="45.786021173552705" since="#T0" xml:id="T46"/>
+      <when interval="46.132682952968075" since="#T0" xml:id="T47"/>
+      <when interval="47.219334299981625" since="#T0" xml:id="T48"/>
+      <when interval="47.679327814975096" since="#T0" xml:id="T49"/>
+      <when interval="48.28598592895199" since="#T0" xml:id="T50"/>
+      <when interval="48.85931117952356" since="#T0" xml:id="T51"/>
+      <when interval="49.365970703284475" since="#T0" xml:id="T52"/>
+      <when interval="50.699285239497435" since="#T0" xml:id="T53"/>
+      <when interval="51.15261218180983" since="#T0" xml:id="T54"/>
+      <when interval="52.8592547881624" since="#T0" xml:id="T55"/>
+      <when interval="53.219249712939906" since="#T0" xml:id="T56"/>
+      <when interval="53.49924576554462" since="#T0" xml:id="T57"/>
+      <when interval="56.13920854724626" since="#T0" xml:id="T58"/>
+      <when interval="56.592535489558664" since="#T0" xml:id="T59"/>
+      <when interval="58.02584861598759" since="#T0" xml:id="T60"/>
+      <when interval="58.81250419235323" since="#T0" xml:id="T61"/>
+      <when interval="59.67915864089165" since="#T0" xml:id="T62"/>
+      <when interval="60.252483891463214" since="#T0" xml:id="T63"/>
+      <when interval="60.41914820848984" since="#T0" xml:id="T64"/>
+      <when interval="61.999125933902185" since="#T0" xml:id="T65"/>
+      <when interval="62.219122832377316" since="#T0" xml:id="T66"/>
+      <when interval="62.64578348396546" since="#T0" xml:id="T67"/>
+      <when interval="63.96576487481628" since="#T0" xml:id="T68"/>
+      <when interval="65.8724046616008" since="#T0" xml:id="T69"/>
+      <when interval="66.43239676681024" since="#T0" xml:id="T70"/>
+      <when interval="66.99905544470074" since="#T0" xml:id="T71"/>
+      <when interval="68.02570763758472" since="#T0" xml:id="T72"/>
+      <when interval="68.49236772525924" since="#T0" xml:id="T73"/>
+      <when interval="69.89234798828284" since="#T0" xml:id="T74"/>
+      <when interval="70.3723412213195" since="#T0" xml:id="T75"/>
+      <when interval="71.30566139666858" since="#T0" xml:id="T76"/>
+      <when interval="73.20563461077204" since="#T0" xml:id="T77"/>
+      <when interval="73.37896550047971" since="#T0" xml:id="T78"/>
+      <when interval="74.31228567582876" since="#T0" xml:id="T79"/>
+      <when interval="74.69228031864947" since="#T0" xml:id="T80"/>
+      <when interval="76.20559231725117" since="#T0" xml:id="T81"/>
+      <when interval="77.55223999882625" since="#T0" xml:id="T82"/>
+      <when interval="78.55222590098596" since="#T0" xml:id="T83"/>
+      <when interval="79.95220616400955" since="#T0" xml:id="T84"/>
+      <when interval="82.75883326273781" since="#T0" xml:id="T85"/>
+      <when interval="84.0654815082265" since="#T0" xml:id="T86"/>
+      <when interval="85.05213426502408" since="#T0" xml:id="T87"/>
+      <when interval="86.15211875739978" since="#T0" xml:id="T88"/>
+      <when interval="87.81209535498489" since="#T0" xml:id="T89"/>
+      <when interval="89.39207308039724" since="#T0" xml:id="T90"/>
+      <when interval="89.96539833096881" since="#T0" xml:id="T91"/>
+      <when interval="91.67870751000245" since="#T0" xml:id="T92"/>
+      <when interval="91.90537098115864" since="#T0" xml:id="T93"/>
+      <when interval="92.20536675180657" since="#T0" xml:id="T94"/>
+      <when interval="92.62536083071365" since="#T0" xml:id="T95"/>
+      <when interval="93.5986804421491" since="#T0" xml:id="T96"/>
+      <when interval="94.19867198344494" since="#T0" xml:id="T97"/>
+      <when interval="94.45866831800646" since="#T0" xml:id="T98"/>
+      <when interval="95.5853191011064" since="#T0" xml:id="T99"/>
+      <when interval="97.18529654456194" since="#T0" xml:id="T100"/>
+      <when interval="98.4586119266453" since="#T0" xml:id="T101"/>
+      <when interval="99.19860149424349" since="#T0" xml:id="T102"/>
+      <when interval="99.4985972648914" since="#T0" xml:id="T103"/>
+      <when interval="100.41191772219727" since="#T0" xml:id="T104"/>
+      <when interval="101.81189798522087" since="#T0" xml:id="T105"/>
+      <when interval="102.61855327962971" since="#T0" xml:id="T106"/>
+      <when interval="103.49854087353026" since="#T0" xml:id="T107"/>
+      <when interval="103.9585343885237" since="#T0" xml:id="T108"/>
+      <when interval="106.18516966399935" since="#T0" xml:id="T109"/>
+      <when interval="107.35181988318568" since="#T0" xml:id="T110"/>
+      <when interval="108.01847715129216" since="#T0" xml:id="T111"/>
+      <when interval="108.85179873642525" since="#T0" xml:id="T112"/>
+      <when interval="109.31845882409978" since="#T0" xml:id="T113"/>
+      <when interval="110.86510368610679" since="#T0" xml:id="T114"/>
+      <when interval="111.32509720110028" since="#T0" xml:id="T115"/>
+      <when interval="112.67174488267536" since="#T0" xml:id="T116"/>
+      <when interval="114.74504898648648" since="#T0" xml:id="T117"/>
+      <when interval="115.77170117937045" since="#T0" xml:id="T118"/>
+      <when interval="116.25836098508817" since="#T0" xml:id="T119"/>
+      <when interval="117.08501599754022" since="#T0" xml:id="T120"/>
+      <when interval="118.52499569665021" since="#T0" xml:id="T121"/>
+      <when interval="120.17163914887318" since="#T0" xml:id="T122"/>
+      <when interval="120.67829867263411" since="#T0" xml:id="T123"/>
+      <when interval="122.13161151710622" since="#T0" xml:id="T124"/>
+      <when interval="123.59159093425943" since="#T0" xml:id="T125"/>
+      <when interval="124.11825017606353" since="#T0" xml:id="T126"/>
+      <when interval="124.8982391797481" since="#T0" xml:id="T127"/>
+      <when interval="129.24484456780232" since="#T0" xml:id="T128"/>
+      <when interval="129.74483751888218" since="#T0" xml:id="T129"/>
+      <when interval="131.97816540833838" since="#T0" xml:id="T130"/>
+      <when interval="132.7048088099247" since="#T0" xml:id="T131"/>
+      <when interval="133.43145221151102" since="#T0" xml:id="T132"/>
+      <when interval="134.73810045699966" since="#T0" xml:id="T133"/>
+      <when interval="135.67142063234874" since="#T0" xml:id="T134"/>
+      <when interval="139.6646976683065" since="#T0" xml:id="T135"/>
+      <when interval="141.6646976683065" since="#T0" xml:id="T136"/>
+      <when interval="142.43799190362944" since="#T0" xml:id="T137"/>
+      <when interval="142.66465537478564" since="#T0" xml:id="T138"/>
+      <when interval="143.59797555013475" since="#T0" xml:id="T139"/>
+      <when interval="144.59796145229444" since="#T0" xml:id="T140"/>
+      <when interval="144.99795581315834" since="#T0" xml:id="T141"/>
+      <when interval="146.07794058749082" since="#T0" xml:id="T142"/>
+      <when interval="147.33792282421206" since="#T0" xml:id="T143"/>
+      <when interval="150.03788476004328" since="#T0" xml:id="T144"/>
+      <when interval="150.53787771112312" since="#T0" xml:id="T145"/>
+      <when interval="152.33118576232954" since="#T0" xml:id="T146"/>
+      <when interval="152.9845098850739" since="#T0" xml:id="T147"/>
+      <when interval="153.67783344390463" since="#T0" xml:id="T148"/>
+      <when interval="154.05782808672532" since="#T0" xml:id="T149"/>
+      <when interval="154.43782272954599" since="#T0" xml:id="T150"/>
+      <when interval="154.744485072875" since="#T0" xml:id="T151"/>
+      <when interval="155.37780947757614" since="#T0" xml:id="T152"/>
+      <when interval="157.0844520839287" since="#T0" xml:id="T153"/>
+      <when interval="157.51111273551686" since="#T0" xml:id="T154"/>
+      <when interval="159.42444513628197" since="#T0" xml:id="T155"/>
+      <when interval="159.8444131738895" since="#T0" xml:id="T156"/>
+      <when interval="160.49107072395282" since="#T0" xml:id="T157"/>
+      <when interval="161.67105408850125" since="#T0" xml:id="T158"/>
+      <when interval="162.364377647332" since="#T0" xml:id="T159"/>
+      <when interval="163.31529757455908" since="#T0" xml:id="T160"/>
+      <when interval="164.0979532073161" since="#T0" xml:id="T161"/>
+      <when interval="164.4110154604189" since="#T0" xml:id="T162"/>
+      <when interval="165.244337045552" since="#T0" xml:id="T163"/>
+      <when interval="166.02432604923655" since="#T0" xml:id="T164"/>
+      <when interval="167.39097344885482" since="#T0" xml:id="T165"/>
+      <when interval="167.55907918700166" since="#T0" xml:id="T166"/>
+      <when interval="169.46427755266595" since="#T0" xml:id="T167"/>
+      <when interval="169.95760393106474" since="#T0" xml:id="T168"/>
+      <when interval="170.71759321670612" since="#T0" xml:id="T169"/>
+      <when interval="171.41758334821793" since="#T0" xml:id="T170"/>
+      <when interval="172.3642366689291" since="#T0" xml:id="T171"/>
+      <when interval="173.42422172521842" since="#T0" xml:id="T172"/>
+      <when interval="173.5975526149261" since="#T0" xml:id="T173"/>
+      <when interval="174.03754641187635" since="#T0" xml:id="T174"/>
+      <when interval="175.15086404961417" since="#T0" xml:id="T175"/>
+      <when interval="176.5108448765514" since="#T0" xml:id="T176"/>
+      <when interval="177.35749960704663" since="#T0" xml:id="T177"/>
+      <when interval="178.47081724478443" since="#T0" xml:id="T178"/>
+      <when interval="179.19747366702046" since="#T0" xml:id="T179"/>
+      <when interval="179.81079835367845" since="#T0" xml:id="T180"/>
+      <when interval="180.54412134859555" since="#T0" xml:id="T181"/>
+      <when interval="181.4707749512636" since="#T0" xml:id="T182"/>
+      <when interval="181.71077156778193" since="#T0" xml:id="T183"/>
+      <when interval="182.61742545240674" since="#T0" xml:id="T184"/>
+      <when interval="184.09073801492204" since="#T0" xml:id="T185"/>
+      <when interval="184.5907309660019" since="#T0" xml:id="T186"/>
+      <when interval="185.0973904897628" since="#T0" xml:id="T187"/>
+      <when interval="185.57738372279948" since="#T0" xml:id="T188"/>
+      <when interval="186.91069825901243" since="#T0" xml:id="T189"/>
+      <when interval="187.14402830284968" since="#T0" xml:id="T190"/>
+      <when interval="187.57738372279948" since="#T0" xml:id="T191"/>
+      <when interval="188.5573417112354" since="#T0" xml:id="T192"/>
+      <when interval="191.20397106561813" since="#T0" xml:id="T193"/>
+      <when interval="192.0972918048808" since="#T0" xml:id="T194"/>
+      <when interval="193.12335806852522" since="#T0" xml:id="T195"/>
+      <when interval="193.66654051488456" since="#T0" xml:id="T196"/>
+      <when interval="196.1239017042439" since="#T0" xml:id="T197"/>
+      <when interval="196.6572275187291" since="#T0" xml:id="T198"/>
+      <when interval="197.21055305125745" since="#T0" xml:id="T199"/>
+      <when interval="198.57720045087572" since="#T0" xml:id="T200"/>
+      <when interval="200.65717112736795" since="#T0" xml:id="T201"/>
+      <when interval="201.1904969418531" since="#T0" xml:id="T202"/>
+      <when interval="201.62382416612232" since="#T0" xml:id="T203"/>
+      <when interval="202.79714095798974" since="#T0" xml:id="T204"/>
+      <when interval="203.14380273740508" since="#T0" xml:id="T205"/>
+      <when interval="203.62379597044173" since="#T0" xml:id="T206"/>
+      <when interval="204.23045408441862" since="#T0" xml:id="T207"/>
+      <when interval="206.04376185366826" since="#T0" xml:id="T208"/>
+      <when interval="207.09041376459544" since="#T0" xml:id="T209"/>
+      <when interval="207.72373816929655" since="#T0" xml:id="T210"/>
+      <when interval="208.6037257631971" since="#T0" xml:id="T211"/>
+      <when interval="208.797056370948" since="#T0" xml:id="T212"/>
+      <when interval="209.28371617666573" since="#T0" xml:id="T213"/>
+      <when interval="210.85036075671593" since="#T0" xml:id="T214"/>
+      <when interval="211.11035709127745" since="#T0" xml:id="T215"/>
+      <when interval="211.63034976040052" since="#T0" xml:id="T216"/>
+      <when interval="211.89701266764308" since="#T0" xml:id="T217"/>
+      <when interval="212.32367331923126" since="#T0" xml:id="T218"/>
+      <when interval="213.00366373269983" since="#T0" xml:id="T219"/>
+      <when interval="213.32365922139093" since="#T0" xml:id="T220"/>
+      <when interval="213.70365386421167" since="#T0" xml:id="T221"/>
+      <when interval="214.41139582442236" since="#T0" xml:id="T222"/>
+      <when interval="214.75650723809792" since="#T0" xml:id="T223"/>
+      <when interval="216.13695289280028" since="#T0" xml:id="T224"/>
+      <when interval="217.1969379490896" since="#T0" xml:id="T225"/>
+      <when interval="218.2902558687842" since="#T0" xml:id="T226"/>
+      <when interval="218.8369148286315" since="#T0" xml:id="T227"/>
+      <when interval="219.11024430855514" since="#T0" xml:id="T228"/>
+      <when interval="220.93024469178536" since="#T0" xml:id="T229"/>
+      <when interval="221.30354672062546" since="#T0" xml:id="T230"/>
+      <when interval="221.6168756366355" since="#T0" xml:id="T231"/>
+      <when interval="223.39685054247977" since="#T0" xml:id="T232"/>
+      <when interval="224.28350470906142" since="#T0" xml:id="T233"/>
+      <when interval="226.01681360613824" since="#T0" xml:id="T234"/>
+      <when interval="227.80345508466363" since="#T0" xml:id="T235"/>
+      <when interval="228.23011573625175" since="#T0" xml:id="T236"/>
+      <when interval="228.5234449342186" since="#T0" xml:id="T237"/>
+      <when interval="231.57673522214623" since="#T0" xml:id="T238"/>
+      <when interval="232.81005116814322" since="#T0" xml:id="T239"/>
+      <when interval="233.10338036611006" since="#T0" xml:id="T240"/>
+      <when interval="233.56337388110353" since="#T0" xml:id="T241"/>
+      <when interval="233.95670166928636" since="#T0" xml:id="T242"/>
+      <when interval="234.22669786286949" since="#T0" xml:id="T243"/>
+      <when interval="234.4966940564526" since="#T0" xml:id="T244"/>
+      <when interval="234.87002212659223" since="#T0" xml:id="T245"/>
+      <when interval="235.41001451375848" since="#T0" xml:id="T246"/>
+      <when interval="235.63667798491466" since="#T0" xml:id="T247"/>
+      <when interval="235.9366737555626" since="#T0" xml:id="T248"/>
+      <when interval="236.1233377906324" since="#T0" xml:id="T249"/>
+      <when interval="236.5633315875827" since="#T0" xml:id="T250"/>
+      <when interval="237.11665712011106" since="#T0" xml:id="T251"/>
+      <when interval="237.50331833561282" since="#T0" xml:id="T252"/>
+      <when interval="238.33663992074588" since="#T0" xml:id="T253"/>
+      <when interval="241.229932464328" since="#T0" xml:id="T254"/>
+      <when interval="242.14991949431493" since="#T0" xml:id="T255"/>
+      <when interval="242.71657817220543" since="#T0" xml:id="T256"/>
+      <when interval="262.434" since="#T0" xml:id="T257"/>
+    </timeline>
+    <body>
+      <annotationGrp end="#T7" start="#T0" who="#SPK1" xml:id="au1" xmlns="http://standoff.proposal">
+        <u xml:id="u1" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg0"><pause dur="PT1.5S"/>
+            <incident>
+              <desc>hustet</desc>
+            </incident><pause dur="PT1.5S"/><anchor synch="#T1"/>
+            <w xml:id="w1">mm</w><anchor synch="#T2"/>
+            <w xml:id="w2">wir</w>
+            <w xml:id="w3">befinden</w><anchor synch="#T3"/><pause dur="PT1.3S"/><anchor synch="#T4"/>
+            <w xml:id="w4">uns</w><anchor synch="#T5"/>
+            <w xml:id="w5">links</w><anchor synch="#T6"/>
+            <w xml:id="w6">unten</w>
+            <w xml:id="w7">am</w>
+            <w xml:id="w8">Start</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T4" to="#T5">un[s]:</span>
+          <span from="#T5" to="#T6">[l]:inks</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T1" to="#T2">EDIT PHASE</span>
+          <span from="#T4" to="#T5">EDIT PHASE</span>
+          <span from="#T5" to="#T6">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T0" to="#T7">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T0" to="#T7">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T0" to="#T7">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T0" to="#T7">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T0" to="#T7">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T0" to="#T7">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T8" start="#T7" who="#SPK0" xml:id="au37" xmlns="http://standoff.proposal">
+        <u xml:id="u37" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg36">
+            <w xml:id="w9">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T7" to="#T8">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T7" to="#T8">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T7" to="#T8">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T7" to="#T8">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T7" to="#T8">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T7" to="#T8">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T14" start="#T8" who="#SPK1" xml:id="au2" xmlns="http://standoff.proposal">
+        <u xml:id="u2" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg1"><pause dur="PT1.0S"/><anchor synch="#T9"/>
+            <w xml:id="w10">und</w><anchor synch="#T10"/>
+            <w xml:id="w11">fahren</w><anchor synch="#T11"/>
+            <w xml:id="w12">oder</w>
+            <w xml:id="w13">gehen</w>
+            <w xml:id="w14">nach</w>
+            <w xml:id="w15">rechts</w><anchor synch="#T12"/><pause dur="PT1.1S"/><anchor synch="#T13"/>
+            <w xml:id="w16">bis</w>
+            <w xml:id="w17">an</w>
+            <w xml:id="w18">die</w>
+            <w xml:id="w19">obere</w>
+            <w xml:id="w20">Ecke</w>
+            <w xml:id="w21">eines</w>
+            <w xml:id="w22">Rades</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T9" to="#T10">un[t]:</span>
+          <span from="#T10" to="#T11">[f]:ahren</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T9" to="#T10">EDIT PHASE</span>
+          <span from="#T10" to="#T11">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T8" to="#T14">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T8" to="#T14">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T8" to="#T14">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T8" to="#T14">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T8" to="#T14">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T8" to="#T14">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T16" start="#T14" who="#SPK0" xml:id="au38" xmlns="http://standoff.proposal">
+        <u xml:id="u38" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg37"><pause dur="PT0.1S"/><anchor synch="#T15"/>
+            <w xml:id="w23">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T14" to="#T16">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T14" to="#T16">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T14" to="#T16">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T14" to="#T16">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T14" to="#T16">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T14" to="#T16">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T20" start="#T16" who="#SPK1" xml:id="au3" xmlns="http://standoff.proposal">
+        <u xml:id="u3" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg2"><pause dur="PT1.2S"/><anchor synch="#T17"/>
+            <w xml:id="w24">von</w>
+            <w xml:id="w25">da</w>
+            <w xml:id="w26">aus</w><anchor synch="#T18"/>
+            <w xml:id="w27">fahren</w><anchor synch="#T19"/>
+            <w xml:id="w28">oder</w>
+            <w xml:id="w29">gehen</w>
+            <w xml:id="w30">wir</w>
+            <w xml:id="w31">nach</w>
+            <w xml:id="w32">unten</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T18" to="#T19">[f]:ahren</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T18" to="#T19">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T16" to="#T20">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T16" to="#T20">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T16" to="#T20">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T16" to="#T20">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T16" to="#T20">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T16" to="#T20">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T22" start="#T20" who="#SPK0" xml:id="au39" xmlns="http://standoff.proposal">
+        <u xml:id="u39" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg38"><pause dur="PT0.4S"/><anchor synch="#T21"/>
+            <w xml:id="w33">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T20" to="#T22">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T20" to="#T22">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T20" to="#T22">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T20" to="#T22">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T20" to="#T22">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T20" to="#T22">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T28" start="#T22" who="#SPK1" xml:id="au4" xmlns="http://standoff.proposal">
+        <u xml:id="u4" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg3"><pause dur="PT0.8S"/><anchor synch="#T23"/>
+            <w xml:id="w34">umschließen</w><anchor synch="#T24"/>
+            <incident>
+              <desc>stockt</desc>
+            </incident><anchor synch="#T25"/>
+            <w xml:id="w35">das</w>
+            <w xml:id="w36">mit</w>
+            <w xml:id="w37">einem</w>
+            <w xml:id="w38">Rechtsweg</w><anchor synch="#T26"/><pause dur="PT2.6S"/><anchor synch="#T27"/>
+            <w xml:id="w39">dann</w>
+            <w xml:id="w40">fahren</w>
+            <w xml:id="w41">wir</w>
+            <w xml:id="w42">nach</w>
+            <w xml:id="w43">oben</w>
+            <w xml:id="w44">bis</w>
+            <w xml:id="w45">zu</w>
+            <w xml:id="w46">einem</w>
+            <w xml:id="w47">Bild</w>
+            <w xml:id="w48">mit</w>
+            <w xml:id="w49">einem</w>
+            <w xml:id="w50">Toaster</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T23" to="#T24">umschließe[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T23" to="#T24">EDIT PHASE</span>
+          <span from="#T24" to="#T25">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T22" to="#T28">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T22" to="#T28">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T22" to="#T28">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T22" to="#T28">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T22" to="#T28">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T22" to="#T28">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T36" start="#T28" who="#SPK0" xml:id="au40" xmlns="http://standoff.proposal">
+        <u xml:id="u40" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg39"><pause dur="PT0.4S"/><anchor synch="#T29"/>
+            <w xml:id="w51">also</w><anchor synch="#T30"/><pause dur="PT1.7S"/><anchor synch="#T31"/>
+            <w xml:id="w52">unten</w>
+            <w xml:id="w53">an</w>
+            <w xml:id="w54">dem</w><anchor synch="#T32"/>
+            <w type="repair" xml:id="w55">Ra</w><anchor synch="#T33"/>
+            <w xml:id="w56">Bild</w><anchor synch="#T34"/>
+            <w xml:id="w57">vorbe<anchor synch="#T35"/>i</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T32" to="#T33">TROUBLE</span>
+          <span from="#T33" to="#T34">REPAIR</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T28" to="#T36">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T28" to="#T36">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T28" to="#T36">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T28" to="#T36">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T28" to="#T36">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T28" to="#T36">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T37" start="#T35" who="#SPK1" xml:id="au5" xmlns="http://standoff.proposal">
+        <u xml:id="u5" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg4">
+            <w xml:id="w58">v<anchor synch="#T36"/>orbei</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T35" to="#T37">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T35" to="#T37">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T35" to="#T37">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T35" to="#T37">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T35" to="#T37">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T35" to="#T37">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T39" start="#T37" who="#SPK0" xml:id="au41" xmlns="http://standoff.proposal">
+        <u xml:id="u41" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg40"><pause dur="PT1.2S"/><anchor synch="#T38"/>
+            <w xml:id="w59">nach</w>
+            <w xml:id="w60">rechts</w>
+            <w xml:id="w61">ne</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T37" to="#T39">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T37" to="#T39">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T37" to="#T39">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T37" to="#T39">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T37" to="#T39">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T37" to="#T39">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T40" start="#T39" who="#SPK1" xml:id="au6" xmlns="http://standoff.proposal">
+        <u xml:id="u6" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg5">
+            <w xml:id="w62">nach</w>
+            <w xml:id="w63">rechts</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T39" to="#T40">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T39" to="#T40">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T39" to="#T40">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T39" to="#T40">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T39" to="#T40">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T39" to="#T40">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T41" start="#T40" who="#SPK0" xml:id="au42" xmlns="http://standoff.proposal">
+        <u xml:id="u42" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg41">
+            <w xml:id="w64">und</w>
+            <w xml:id="w65">dann</w>
+            <w xml:id="w66">nach</w>
+            <w xml:id="w67">oben</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T40" to="#T41">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T40" to="#T41">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T40" to="#T41">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T40" to="#T41">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T40" to="#T41">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T40" to="#T41">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T44" start="#T41" who="#SPK1" xml:id="au7" xmlns="http://standoff.proposal">
+        <u xml:id="u7" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg6">
+            <w xml:id="w68">dann</w>
+            <w xml:id="w69">nach</w>
+            <w xml:id="w70">oben</w><anchor synch="#T42"/><pause dur="PT0.9S"/><anchor synch="#T43"/>
+            <w xml:id="w71">senkrecht</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T41" to="#T44">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T41" to="#T44">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T41" to="#T44">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T41" to="#T44">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T41" to="#T44">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T41" to="#T44">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T46" start="#T44" who="#SPK0" xml:id="au43" xmlns="http://standoff.proposal">
+        <u xml:id="u43" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg42"><pause dur="PT0.2S"/><anchor synch="#T45"/>
+            <w xml:id="w72">bis</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T44" to="#T46">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T44" to="#T46">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T44" to="#T46">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T44" to="#T46">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T44" to="#T46">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T44" to="#T46">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T48" start="#T46" who="#SPK1" xml:id="au8" xmlns="http://standoff.proposal">
+        <u xml:id="u8" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg7"><pause dur="PT0.3S"/><anchor synch="#T47"/>
+            <w xml:id="w73">bis</w>
+            <w xml:id="w74">zu</w>
+            <w xml:id="w75">einem</w>
+            <w xml:id="w76">Toaster</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T46" to="#T48">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T46" to="#T48">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T46" to="#T48">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T46" to="#T48">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T46" to="#T48">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T46" to="#T48">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T49" start="#T48" who="#SPK0" xml:id="au44" xmlns="http://standoff.proposal">
+        <u xml:id="u44" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg43">
+            <w xml:id="w77">ja</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T48" to="#T49">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T48" to="#T49">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T48" to="#T49">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T48" to="#T49">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T48" to="#T49">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T48" to="#T49">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T55" start="#T49" who="#SPK1" xml:id="au9" xmlns="http://standoff.proposal">
+        <u xml:id="u9" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg8"><pause dur="PT0.6S"/><anchor synch="#T50"/>
+            <w xml:id="w78">ähm</w><anchor synch="#T51"/>
+            <w xml:id="w79">auf</w>
+            <w xml:id="w80">der</w><anchor synch="#T52"/>
+            <w xml:id="w81">rechten</w><anchor synch="#T53"/><pause dur="PT0.5S"/><anchor synch="#T54"/>
+            <w xml:id="w82">oberen</w>
+            <w xml:id="w83">Ecke</w>
+            <w xml:id="w84">halten</w>
+            <w xml:id="w85">wir</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T52" to="#T53">recht[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T50" to="#T51">EDIT PHASE</span>
+          <span from="#T52" to="#T53">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T49" to="#T55">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T49" to="#T55">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T49" to="#T55">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T49" to="#T55">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T49" to="#T55">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T49" to="#T55">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T56" start="#T55" who="#SPK0" xml:id="au45" xmlns="http://standoff.proposal">
+        <u xml:id="u45" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg44">
+            <w xml:id="w86">ja</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T55" to="#T56">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T55" to="#T56">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T55" to="#T56">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T55" to="#T56">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T55" to="#T56">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T55" to="#T56">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T58" start="#T56" who="#SPK1" xml:id="au10" xmlns="http://standoff.proposal">
+        <u xml:id="u10" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg9"><pause dur="PT0.3S"/><anchor synch="#T57"/>
+            <w xml:id="w87">und</w>
+            <w xml:id="w88">folgen</w>
+            <w xml:id="w89">dem</w>
+            <w xml:id="w90">Weg</w>
+            <w xml:id="w91">nach</w>
+            <w xml:id="w92">links</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T56" to="#T58">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T56" to="#T58">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T56" to="#T58">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T56" to="#T58">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T56" to="#T58">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T56" to="#T58">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T59" start="#T58" who="#SPK0" xml:id="au46" xmlns="http://standoff.proposal">
+        <u xml:id="u46" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg45">
+            <w xml:id="w93">okay</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T58" to="#T59">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T58" to="#T59">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T58" to="#T59">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T58" to="#T59">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T58" to="#T59">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T58" to="#T59">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T65" start="#T59" who="#SPK1" xml:id="au11" xmlns="http://standoff.proposal">
+        <u xml:id="u11" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg10"><pause dur="PT1.4S"/><anchor synch="#T60"/>
+            <w xml:id="w94">ähm</w><anchor synch="#T61"/>
+            <w xml:id="w95">bis</w>
+            <w xml:id="w96">zu</w><anchor synch="#T62"/>
+            <w type="repair" xml:id="w97">einer</w><anchor synch="#T63"/>
+            <w xml:id="w98">der</w><anchor synch="#T64"/>
+            <w xml:id="w99">rechten</w>
+            <w xml:id="w100">Seite</w>
+            <w xml:id="w101">eines</w>
+            <w xml:id="w102">Motorrades</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T60" to="#T61">EDIT PHASE</span>
+          <span from="#T62" to="#T63">TROUBLE</span>
+          <span from="#T63" to="#T64">REPAIR</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T59" to="#T65">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T59" to="#T65">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T59" to="#T65">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T59" to="#T65">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T59" to="#T65">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T59" to="#T65">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T67" start="#T65" who="#SPK0" xml:id="au47" xmlns="http://standoff.proposal">
+        <u xml:id="u47" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg46"><pause dur="PT0.2S"/><anchor synch="#T66"/>
+            <w xml:id="w103">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T65" to="#T67">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T65" to="#T67">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T65" to="#T67">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T65" to="#T67">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T65" to="#T67">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T65" to="#T67">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T69" start="#T67" who="#SPK1" xml:id="au12" xmlns="http://standoff.proposal">
+        <u xml:id="u12" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg11"><pause dur="PT1.3S"/><anchor synch="#T68"/>
+            <w xml:id="w104">dann</w>
+            <w xml:id="w105">fahren</w>
+            <w xml:id="w106">wir</w>
+            <w xml:id="w107">nach</w>
+            <w xml:id="w108">unten</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T67" to="#T69">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T67" to="#T69">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T67" to="#T69">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T67" to="#T69">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T67" to="#T69">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T67" to="#T69">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T70" start="#T69" who="#SPK0" xml:id="au48" xmlns="http://standoff.proposal">
+        <u xml:id="u48" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg47">
+            <w xml:id="w109">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T69" to="#T70">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T69" to="#T70">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T69" to="#T70">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T69" to="#T70">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T69" to="#T70">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T69" to="#T70">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T72" start="#T70" who="#SPK1" xml:id="au13" xmlns="http://standoff.proposal">
+        <u xml:id="u13" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg12"><pause dur="PT0.6S"/><anchor synch="#T71"/>
+            <w xml:id="w110">bis</w>
+            <w xml:id="w111">zu</w>
+            <w xml:id="w112">dem</w>
+            <w xml:id="w113">Reifen</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T70" to="#T72">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T70" to="#T72">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T70" to="#T72">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T70" to="#T72">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T70" to="#T72">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T70" to="#T72">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T73" start="#T72" who="#SPK0" xml:id="au49" xmlns="http://standoff.proposal">
+        <u xml:id="u49" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg48">
+            <w xml:id="w114">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T72" to="#T73">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T72" to="#T73">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T72" to="#T73">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T72" to="#T73">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T72" to="#T73">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T72" to="#T73">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T81" start="#T73" who="#SPK1" xml:id="au14" xmlns="http://standoff.proposal">
+        <u xml:id="u14" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg13"><pause dur="PT1.4S"/><anchor synch="#T74"/>
+            <w xml:id="w115">m</w><anchor synch="#T75"/>
+            <w xml:id="w116">dann</w><anchor synch="#T76"/>
+            <w xml:id="w117">folgen</w>
+            <w xml:id="w118">wir</w>
+            <w xml:id="w119">dem</w>
+            <w xml:id="w120">Weg</w>
+            <w xml:id="w121">nach</w>
+            <w xml:id="w122">links</w><anchor synch="#T77"/><pause dur="PT0.2S"/><anchor synch="#T78"/>
+            <w xml:id="w123">bis</w>
+            <w xml:id="w124">zur</w>
+            <w xml:id="w125">Mitte</w><anchor synch="#T79"/><pause dur="PT0.4S"/><anchor synch="#T80"/>
+            <w xml:id="w126">des</w>
+            <w xml:id="w127">Bildes</w>
+            <w xml:id="w128">mit</w>
+            <w xml:id="w129">den</w>
+            <w xml:id="w130">Nägeln</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T75" to="#T76">d[a]:n[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T74" to="#T75">EDIT PHASE</span>
+          <span from="#T75" to="#T76">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T73" to="#T81">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T73" to="#T81">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T73" to="#T81">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T73" to="#T81">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T73" to="#T81">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T73" to="#T81">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T83" start="#T81" who="#SPK0" xml:id="au50" xmlns="http://standoff.proposal">
+        <u xml:id="u50" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg49"><pause dur="PT1.3S"/><anchor synch="#T82"/>
+            <w xml:id="w131">das</w>
+            <w xml:id="w132">Bild</w>
+            <w xml:id="w133">habe</w>
+            <w xml:id="w134">ich</w>
+            <w xml:id="w135">nicht</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T81" to="#T83">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T81" to="#T83">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T81" to="#T83">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T81" to="#T83">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T81" to="#T83">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T81" to="#T83">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T89" start="#T83" who="#SPK1" xml:id="au15" xmlns="http://standoff.proposal">
+        <u xml:id="u15" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg14"><pause dur="PT1.4S"/><anchor synch="#T84"/>
+            <w xml:id="w136">dann</w><anchor synch="#T85"/>
+            <w xml:id="w137">fährst</w>
+            <w xml:id="w138">du</w>
+            <w xml:id="w139">nach</w><anchor synch="#T86"/>
+            <w xml:id="w140">links</w><anchor synch="#T87"/><pause dur="PT1.1S"/><anchor synch="#T88"/>
+            <w xml:id="w141">bis</w>
+            <w xml:id="w142">zur</w>
+            <w xml:id="w143">Mitte</w>
+            <w xml:id="w144">des</w>
+            <w xml:id="w145">Bildes</w>
+            <w xml:id="w146">welches</w>
+            <w xml:id="w147">du</w>
+            <w xml:id="w148">siehst</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T84" to="#T85">d[a]:n[n]:</span>
+          <span from="#T86" to="#T87">[l]:inks
+          </span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T84" to="#T85">EDIT PHASE</span>
+          <span from="#T86" to="#T87">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T83" to="#T89">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T83" to="#T89">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T83" to="#T89">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T83" to="#T89">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T83" to="#T89">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T83" to="#T89">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T92" start="#T89" who="#SPK0" xml:id="au51" xmlns="http://standoff.proposal">
+        <u xml:id="u51" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg50"><pause dur="PT1.6S"/><anchor synch="#T90"/>
+            <w xml:id="w149">ähm</w><anchor synch="#T91"/>
+            <w xml:id="w150">das</w>
+            <w xml:id="w151">nächste</w>
+            <w xml:id="w152">zum</w>
+            <w xml:id="w153">Motorrad</w>
+            <w xml:id="w154">wahrscheinlich</w>
+            <w xml:id="w155">ne</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T90" to="#T91">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T89" to="#T92">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T89" to="#T92">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T89" to="#T92">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T89" to="#T92">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T89" to="#T92">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T89" to="#T92">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T93" start="#T92" who="#SPK1" xml:id="au16" xmlns="http://standoff.proposal">
+        <u xml:id="u16" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg15">
+            <w xml:id="w156">ja</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T92" to="#T93">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T92" to="#T93">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T92" to="#T93">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T92" to="#T93">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T92" to="#T93">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T92" to="#T93">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T95" start="#T93" who="#SPK0" xml:id="au52" xmlns="http://standoff.proposal">
+        <u xml:id="u52" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg51"><pause dur="PT0.3S"/><anchor synch="#T94"/>
+            <w xml:id="w157">okay</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T93" to="#T95">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T93" to="#T95">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T93" to="#T95">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T93" to="#T95">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T93" to="#T95">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T93" to="#T95">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T109" start="#T95" who="#SPK1" xml:id="au17" xmlns="http://standoff.proposal">
+        <u xml:id="u17" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg16"><pause dur="PT1S"/><anchor synch="#T96"/>
+            <w xml:id="w158">dann</w><anchor synch="#T97"/>
+            <w xml:id="w159">in</w><anchor synch="#T98"/>
+            <w xml:id="w160">einem</w><anchor synch="#T99"/><pause dur="PT1.6S"/><anchor synch="#T100"/>
+            <w type="repair" xml:id="w161">mm</w><anchor synch="#T101"/>
+            <w xml:id="w162">Winkel</w><anchor synch="#T102"/>
+            <w xml:id="w163">von</w><anchor synch="#T103"/>
+            <w xml:id="w164">ungefähr</w><anchor synch="#T104"/><pause dur="PT1.4S"/><anchor synch="#T105"/>
+            <w xml:id="w165">dreißig</w>
+            <w xml:id="w166">Grad</w><anchor synch="#T106"/><pause dur="PT0.9S"/><anchor synch="#T107"/>
+            <w xml:id="w167">ähm</w><anchor synch="#T108"/>
+            <w xml:id="w168">auf</w>
+            <w xml:id="w169">die</w>
+            <w xml:id="w170">rechte</w>
+            <w xml:id="w171">Seite</w>
+            <w xml:id="w172">des</w>
+            <w xml:id="w173">Bildes</w>
+            <w xml:id="w174">welches</w>
+            <w xml:id="w175">du</w>
+            <w xml:id="w176">siehst</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T96" to="#T97">d[a]:nn</span>
+          <span from="#T98" to="#T99">ein[e]:m</span>
+          <span from="#T103" to="#T104">ungef[ä]:hr</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T96" to="#T97">EDIT PHASE</span>
+          <span from="#T98" to="#T99">EDIT PHASE</span>
+          <span from="#T100" to="#T101">EDIT PHASE</span>
+          <span from="#T103" to="#T104">EDIT PHASE</span>
+          <span from="#T107" to="#T108">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T95" to="#T109">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T95" to="#T109">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T95" to="#T109">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T95" to="#T109">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T95" to="#T109">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T95" to="#T109">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T111" start="#T109" who="#SPK0" xml:id="au53" xmlns="http://standoff.proposal">
+        <u xml:id="u53" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg52"><pause dur="PT1.2S"/><anchor synch="#T110"/>
+            <w xml:id="w177">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T109" to="#T111">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T109" to="#T111">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T109" to="#T111">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T109" to="#T111">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T109" to="#T111">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T109" to="#T111">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T117" start="#T111" who="#SPK1" xml:id="au18" xmlns="http://standoff.proposal">
+        <u xml:id="u18" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg17"><pause dur="PT0.8S"/><anchor synch="#T112"/>
+            <w xml:id="w178">dann</w><anchor synch="#T113"/>
+            <w xml:id="w179">senkrecht</w><anchor synch="#T114"/>
+            <w xml:id="w180">nach</w><anchor synch="#T115"/>
+            <w type="repair" xml:id="w181">o</w>
+            <w xml:id="w182">oben</w><anchor synch="#T116"/>
+            <w xml:id="w183">bis</w>
+            <w xml:id="w184">zur</w>
+            <w xml:id="w185">rechten</w>
+            <w xml:id="w186">Ecke</w>
+            <w xml:id="w187">des</w>
+            <w xml:id="w188">Bildes</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T113" to="#T114">senkrecht[s]:</span>
+          <span from="#T115" to="#T116">obe[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T113" to="#T114">EDIT PHASE</span>
+          <span from="#T115" to="#T116">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T111" to="#T117">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T111" to="#T117">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T111" to="#T117">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T111" to="#T117">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T111" to="#T117">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T111" to="#T117">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T119" start="#T117" who="#SPK0" xml:id="au54" xmlns="http://standoff.proposal">
+        <u xml:id="u54" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg53"><pause dur="PT1S"/><anchor synch="#T118"/>
+            <w xml:id="w189">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T117" to="#T119">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T117" to="#T119">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T117" to="#T119">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T117" to="#T119">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T117" to="#T119">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T117" to="#T119">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T124" start="#T119" who="#SPK1" xml:id="au19" xmlns="http://standoff.proposal">
+        <u xml:id="u19" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg18"><pause dur="PT0.8S"/><anchor synch="#T120"/>
+            <w xml:id="w190">dann</w><anchor synch="#T121"/>
+            <w xml:id="w191">nach</w>
+            <w xml:id="w192">rechts</w>
+            <w xml:id="w193">an</w><anchor synch="#T122"/><pause dur="PT0.5S"/><anchor synch="#T123"/>
+            <w xml:id="w194">die</w>
+            <w xml:id="w195">rechte</w>
+            <w xml:id="w196">Seite</w>
+            <w xml:id="w197">der</w>
+            <w xml:id="w198">Wohnwagen</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T120" to="#T121">d[a]:n[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T120" to="#T121">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T119" to="#T124">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T119" to="#T124">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T119" to="#T124">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T119" to="#T124">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T119" to="#T124">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T119" to="#T124">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T126" start="#T124" who="#SPK0" xml:id="au55" xmlns="http://standoff.proposal">
+        <u xml:id="u55" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg54"><pause dur="PT1.5S"/><anchor synch="#T125"/>
+            <w xml:id="w199">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T124" to="#T126">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T124" to="#T126">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T124" to="#T126">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T124" to="#T126">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T124" to="#T126">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T124" to="#T126">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T128" start="#T126" who="#SPK1" xml:id="au20" xmlns="http://standoff.proposal">
+        <u xml:id="u20" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg19"><pause dur="PT0.8S"/><anchor synch="#T127"/>
+            <w xml:id="w200">dann</w>
+            <w xml:id="w201">bis</w>
+            <w xml:id="w202">zum</w>
+            <w xml:id="w203">obersten</w>
+            <w xml:id="w204">Wohnwagen</w>
+            <w xml:id="w205">senkrecht</w>
+            <w xml:id="w206">hoch</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T126" to="#T128">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T126" to="#T128">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T126" to="#T128">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T126" to="#T128">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T126" to="#T128">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T126" to="#T128">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T129" start="#T128" who="#SPK0" xml:id="au56" xmlns="http://standoff.proposal">
+        <u xml:id="u56" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg55">
+            <w xml:id="w207">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T128" to="#T129">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T128" to="#T129">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T128" to="#T129">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T128" to="#T129">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T128" to="#T129">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T128" to="#T129">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T135" start="#T129" who="#SPK1" xml:id="au21" xmlns="http://standoff.proposal">
+        <u xml:id="u21" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg20"><pause dur="PT2.2S"/><anchor synch="#T130"/>
+            <w xml:id="w208">dann</w><anchor synch="#T131"/>
+            <w xml:id="w209">in</w><anchor synch="#T132"/>
+            <w xml:id="w210">einem</w><anchor synch="#T133"/><pause dur="PT0.9S"/><anchor synch="#T134"/>
+            <w xml:id="w211">ja</w>
+            <w xml:id="w212">Fünfundvierzig</w>
+            <pc xml:id="pc1">-</pc>
+            <w xml:id="w213">Grad</w>
+            <pc xml:id="pc2">-</pc>
+            <w xml:id="w214">Winkel</w>
+            <w xml:id="w215">nach</w>
+            <w xml:id="w216">oben</w>
+            <w xml:id="w217">zu</w>
+            <w xml:id="w218">diesem</w>
+            <w xml:id="w219">Herrn</w>
+            <w xml:id="w220">Metzger</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T130" to="#T131">dan[n]:</span>
+          <span from="#T132" to="#T133">ein[e]:m</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T130" to="#T131">EDIT PHASE</span>
+          <span from="#T132" to="#T133">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T129" to="#T135">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T129" to="#T135">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T129" to="#T135">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T129" to="#T135">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T129" to="#T135">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T129" to="#T135">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T138" start="#T135" who="#SPK0" xml:id="au57" xmlns="http://standoff.proposal">
+        <u xml:id="u57" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg56"><pause dur="PT2S"/><anchor synch="#T136"/>
+            <w xml:id="w221">auf</w>
+            <w xml:id="w222">der</w>
+            <w xml:id="w223">linken</w>
+            <w xml:id="w224">Sei<anchor synch="#T137"/>te</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T135" to="#T138">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T135" to="#T138">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T135" to="#T138">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T135" to="#T138">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T135" to="#T138">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T135" to="#T138">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T139" start="#T137" who="#SPK1" xml:id="au22" xmlns="http://standoff.proposal">
+        <u xml:id="u22" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg21">
+            <w xml:id="w225">auf</w>
+            <w xml:id="w226">de<anchor synch="#T138"/>r</w>
+            <w xml:id="w227">linken</w>
+            <w xml:id="w228">Seite</w>
+            <w xml:id="w229">genau</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T137" to="#T139">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T137" to="#T139">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T137" to="#T139">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T137" to="#T139">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T137" to="#T139">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T137" to="#T139">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T141" start="#T139" who="#SPK0" xml:id="au58" xmlns="http://standoff.proposal">
+        <u xml:id="u58" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg57"><pause dur="PT1S"/><anchor synch="#T140"/>
+            <w xml:id="w230">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T139" to="#T141">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T139" to="#T141">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T139" to="#T141">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T139" to="#T141">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T139" to="#T141">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T139" to="#T141">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T146" start="#T141" who="#SPK1" xml:id="au23" xmlns="http://standoff.proposal">
+        <u xml:id="u23" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg22"><pause dur="PT1.1S"/><anchor synch="#T142"/>
+            <w xml:id="w231">dann</w><anchor synch="#T143"/>
+            <w xml:id="w232">bis</w>
+            <w xml:id="w233">zur</w>
+            <w xml:id="w234">linkeren</w>
+            <w xml:id="w235">unteren</w>
+            <w xml:id="w236">Seite</w>
+            <w xml:id="w237">des</w>
+            <w xml:id="w238">Bildes</w><anchor synch="#T144"/><pause dur="PT0.5S"/><anchor synch="#T145"/>
+            <w xml:id="w239">dem</w>
+            <w xml:id="w240">Weg</w>
+            <w xml:id="w241">weiter</w>
+            <w xml:id="w242">folgen</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T142" to="#T143">d[a]:n[n]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T142" to="#T143">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T141" to="#T146">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T141" to="#T146">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T141" to="#T146">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T141" to="#T146">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T141" to="#T146">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T141" to="#T146">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T149" start="#T146" who="#SPK0" xml:id="au59" xmlns="http://standoff.proposal">
+        <u xml:id="u59" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg58"><pause dur="PT0.7S"/><anchor synch="#T147"/>
+            <w xml:id="w243">nach</w>
+            <w xml:id="w244">links</w>
+            <w xml:id="w245">also</w><anchor synch="#T148"/>
+            <incident>
+              <desc>unv.</desc>
+            </incident>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T146" to="#T149">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T146" to="#T149">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T146" to="#T149">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T146" to="#T149">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T146" to="#T149">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T146" to="#T149">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T150" start="#T148" who="#SPK1" xml:id="au24" xmlns="http://standoff.proposal">
+        <u xml:id="u24" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg23">
+            <w xml:id="w246">nach</w>
+            <w xml:id="w247">links</w><anchor synch="#T149"/>
+            <w xml:id="w248">richtig</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T148" to="#T150">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T148" to="#T150">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T148" to="#T150">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T148" to="#T150">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T148" to="#T150">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T148" to="#T150">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T151" start="#T150" who="#SPK0" xml:id="au60" xmlns="http://standoff.proposal">
+        <u xml:id="u60" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg59">
+            <w xml:id="w249">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T150" to="#T151">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T150" to="#T151">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T150" to="#T151">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T150" to="#T151">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T150" to="#T151">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T150" to="#T151">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T153" start="#T151" who="#SPK1" xml:id="au25" xmlns="http://standoff.proposal">
+        <u xml:id="u25" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg24"><pause dur="PT0.6S"/><anchor synch="#T152"/>
+            <w xml:id="w250">dann</w>
+            <w xml:id="w251">wieder</w>
+            <w xml:id="w252">senkrecht</w>
+            <w xml:id="w253">nach</w>
+            <w xml:id="w254">oben</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T151" to="#T153">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T151" to="#T153">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T151" to="#T153">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T151" to="#T153">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T151" to="#T153">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T151" to="#T153">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T154" start="#T153" who="#SPK0" xml:id="au61" xmlns="http://standoff.proposal">
+        <u xml:id="u61" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg60">
+            <w xml:id="w255">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T153" to="#T154">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T153" to="#T154">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T153" to="#T154">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T153" to="#T154">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T153" to="#T154">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T153" to="#T154">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T167" start="#T154" who="#SPK1" xml:id="au26" xmlns="http://standoff.proposal">
+        <u xml:id="u26" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg25">
+            <w xml:id="w256">bis</w>
+            <w xml:id="w257">zur</w>
+            <w xml:id="w258">linken</w>
+            <w xml:id="w259">Seite</w>
+            <w xml:id="w260">des</w>
+            <w xml:id="w261">Bild<anchor synch="#T155"/>es</w><anchor synch="#T156"/><pause dur="PT0.6S"/><anchor synch="#T157"/>
+            <w xml:id="w262">und</w>
+            <w xml:id="w263">dann</w><anchor synch="#T158"/>
+            <w type="repair" xml:id="w264">f</w>
+            <w xml:id="w265">folgen</w><anchor synch="#T159"/>
+            <w xml:id="w266">wir</w>
+            <w xml:id="w267">dem</w>
+            <w xml:id="w268">Weg</w>
+            <w xml:id="w269">nach</w><anchor synch="#T160"/>
+            <w type="repair" xml:id="w270">r</w>
+            <w xml:id="w271">rechts</w><anchor synch="#T161"/>
+            <w xml:id="w272">bis</w><anchor synch="#T162"/>
+            <w xml:id="w273">zum</w><anchor synch="#T163"/><pause dur="PT0.8S"/><anchor synch="#T164"/>
+            <w xml:id="w274">m</w><anchor synch="#T165"/>
+            <w xml:id="w275">ja</w><anchor synch="#T166"/>
+            <w xml:id="w276">bis</w>
+            <w xml:id="w277">zu</w>
+            <w xml:id="w278">den</w>
+            <w xml:id="w279">Reagenzgläsern</w>
+            <w xml:id="w280">in</w>
+            <w xml:id="w281">etwa</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T162" to="#T163">z[u]:m</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T158" to="#T159">EDIT PHASE</span>
+          <span from="#T160" to="#T161">EDIT PHASE</span>
+          <span from="#T162" to="#T163">EDIT PHASE</span>
+          <span from="#T164" to="#T165">EDIT PHASE</span>
+          <span from="#T165" to="#T166">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T154" to="#T167">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T154" to="#T167">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T154" to="#T167">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T154" to="#T167">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T154" to="#T167">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T154" to="#T167">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T156" start="#T155" who="#SPK0" xml:id="au62" xmlns="http://standoff.proposal">
+        <u xml:id="u62" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg61">
+            <w xml:id="w282">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T155" to="#T156">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T155" to="#T156">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T155" to="#T156">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T155" to="#T156">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T155" to="#T156">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T155" to="#T156">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T168" start="#T167" who="#SPK0" xml:id="au63" xmlns="http://standoff.proposal">
+        <u xml:id="u63" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg62"><pause dur="PT0.5S"/></seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T167" to="#T168">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T167" to="#T168">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T167" to="#T168">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T167" to="#T168">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T167" to="#T168">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T167" to="#T168">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T172" start="#T168" who="#SPK1" xml:id="au27" xmlns="http://standoff.proposal">
+        <u xml:id="u27" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg26">
+            <incident>
+              <desc>holt Luft</desc>
+            </incident><anchor synch="#T169"/>
+            <w xml:id="w283">dann</w><anchor synch="#T170"/>
+            <w xml:id="w284">wiederum</w><anchor synch="#T171"/>
+            <w xml:id="w285">senkrecht</w>
+            <w xml:id="w286">nach</w>
+            <w xml:id="w287">oben</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T169" to="#T170">d[a]:n[n]:</span>
+          <span from="#T170" to="#T171">wieder[u]:m</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T169" to="#T170">EDIT PHASE</span>
+          <span from="#T170" to="#T171">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T168" to="#T172">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T168" to="#T172">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T168" to="#T172">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T168" to="#T172">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T168" to="#T172">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T168" to="#T172">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T174" start="#T172" who="#SPK0" xml:id="au64" xmlns="http://standoff.proposal">
+        <u xml:id="u64" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg63"><pause dur="PT0.2S"/><anchor synch="#T173"/>
+            <w xml:id="w288">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T172" to="#T174">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T172" to="#T174">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T172" to="#T174">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T172" to="#T174">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T172" to="#T174">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T172" to="#T174">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T185" start="#T174" who="#SPK1" xml:id="au28" xmlns="http://standoff.proposal">
+        <u xml:id="u28" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg27"><pause dur="PT1.1S"/><anchor synch="#T175"/>
+            <w xml:id="w289">dann</w><anchor synch="#T176"/><pause dur="PT0.8S"/><anchor synch="#T177"/>
+            <w type="repair" xml:id="w290">f</w>
+            <w xml:id="w291">fahren</w><anchor synch="#T178"/>
+            <w xml:id="w292">wir</w>
+            <w xml:id="w293">weiter</w>
+            <w xml:id="w294">den</w><anchor synch="#T179"/>
+            <w type="repair" xml:id="w295">W</w>
+            <w xml:id="w296">Weg</w><anchor synch="#T180"/>
+            <incident>
+              <desc>holt Luft</desc>
+            </incident><pause dur="PT0.7S"/><anchor synch="#T181"/>
+            <w type="repair" xml:id="w297">r</w>
+            <w xml:id="w298">rechts</w><anchor synch="#T182"/>
+            <w xml:id="w299">bis</w><anchor synch="#T183"/>
+            <w xml:id="w300">ungefähr</w><anchor synch="#T184"/>
+            <w xml:id="w301">Mitte</w>
+            <w xml:id="w302">des</w>
+            <w xml:id="w303">Hähnchens</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T175" to="#T176">d[a]:n[n]:</span>
+          <span from="#T183" to="#T184">stockend</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T175" to="#T176">EDIT PHASE</span>
+          <span from="#T177" to="#T178">EDIT PHASE</span>
+          <span from="#T179" to="#T180">EDIT PHASE</span>
+          <span from="#T181" to="#T182">EDIT PHASE</span>
+          <span from="#T183" to="#T184">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T174" to="#T185">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T174" to="#T185">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T174" to="#T185">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T174" to="#T185">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T174" to="#T185">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T174" to="#T185">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T187" start="#T185" who="#SPK0" xml:id="au65" xmlns="http://standoff.proposal">
+        <u xml:id="u65" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg64"><pause dur="PT0.5S"/><anchor synch="#T186"/>
+            <w xml:id="w304">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T185" to="#T187">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T185" to="#T187">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T185" to="#T187">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T185" to="#T187">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T185" to="#T187">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T185" to="#T187">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T189" start="#T187" who="#SPK1" xml:id="au29" xmlns="http://standoff.proposal">
+        <u xml:id="u29" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg28"><pause dur="PT0.5S"/><anchor synch="#T188"/>
+            <w xml:id="w305">dann</w>
+            <w xml:id="w306">senkrecht</w>
+            <w xml:id="w307">nach</w>
+            <w xml:id="w308">unten</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T187" to="#T189">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T187" to="#T189">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T187" to="#T189">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T187" to="#T189">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T187" to="#T189">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T187" to="#T189">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T191" start="#T189" who="#SPK0" xml:id="au66" xmlns="http://standoff.proposal">
+        <u xml:id="u66" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg65"><pause dur="PT0.2S"/><anchor synch="#T190"/>
+            <w xml:id="w309">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T189" to="#T191">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T189" to="#T191">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T189" to="#T191">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T189" to="#T191">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T189" to="#T191">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T189" to="#T191">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T210" start="#T191" who="#SPK1" xml:id="au30" xmlns="http://standoff.proposal">
+        <u xml:id="u30" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg29"><pause dur="PT1S"/><anchor synch="#T192"/>
+            <w xml:id="w310">wir</w>
+            <w xml:id="w311">umfahren</w>
+            <w xml:id="w312">das</w>
+            <w xml:id="w313">Hähnchen</w>
+            <w xml:id="w314">einmal</w><anchor synch="#T193"/><pause dur="PT0.9S"/><anchor synch="#T194"/>
+            <w xml:id="w315">in</w>
+            <w xml:id="w316">einem</w>
+            <w xml:id="w317">Quadrat</w><anchor synch="#T195"/><pause dur="PT0.5S"/><anchor synch="#T196"/>
+            <w xml:id="w318">und</w>
+            <w xml:id="w319">fahren</w>
+            <w xml:id="w320">dann</w>
+            <w xml:id="w321">wieder</w>
+            <w xml:id="w322">parallel</w>
+            <w xml:id="w323">zu</w>
+            <w xml:id="w324">dem</w><anchor synch="#T197"/><pause dur="PT0.5S"/><anchor synch="#T198"/>
+            <w xml:id="w325">ähm</w><anchor synch="#T199"/>
+            <w xml:id="w326">Weg</w>
+            <w xml:id="w327">nach</w>
+            <w xml:id="w328">unten</w>
+            <w xml:id="w329">nach</w>
+            <w xml:id="w330">oben</w><anchor synch="#T200"/><pause dur="PT2.1S"/><anchor synch="#T201"/>
+            <w xml:id="w331">bis</w><anchor synch="#T202"/><pause dur="PT0.4S"/><anchor synch="#T203"/>
+            <w xml:id="w332">ja</w>
+            <w xml:id="w333">halb</w>
+            <w xml:id="w334">parallel</w><anchor synch="#T204"/>
+            <incident>
+              <desc>holt Luft, 0,3s</desc>
+            </incident><anchor synch="#T205"/>
+            <w xml:id="w335">ähm</w><anchor synch="#T206"/>
+            <w xml:id="w336">dann</w><anchor synch="#T207"/>
+            <w xml:id="w337">folgen</w>
+            <w xml:id="w338">wir</w>
+            <w xml:id="w339">dem</w>
+            <w xml:id="w340">Weg</w>
+            <w xml:id="w341">nach</w>
+            <w xml:id="w342">rechts</w>
+            <w xml:id="w343">bis</w>
+            <w xml:id="w344">zu</w><anchor synch="#T208"/>
+            <w xml:id="w345">diesem</w><anchor synch="#T209"/>
+            <w xml:id="w346">Karton</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T206" to="#T207">d[a]:n[n]:</span>
+          <span from="#T208" to="#T209">diese[m]:</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T198" to="#T199">EDIT PHASE</span>
+          <span from="#T205" to="#T206">EDIT PHASE</span>
+          <span from="#T206" to="#T207">EDIT PHASE</span>
+          <span from="#T208" to="#T209">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T191" to="#T210">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T191" to="#T210">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T191" to="#T210">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T191" to="#T210">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T191" to="#T210">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T191" to="#T210">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T206" start="#T205" who="#SPK0" xml:id="au67" xmlns="http://standoff.proposal">
+        <u xml:id="u67" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg66">
+            <w xml:id="w347">mhm</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T205" to="#T206">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T205" to="#T206">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T205" to="#T206">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T205" to="#T206">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T205" to="#T206">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T205" to="#T206">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T211" start="#T210" who="#SPK0" xml:id="au68" xmlns="http://standoff.proposal">
+        <u xml:id="u68" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg67">
+            <w xml:id="w348">über</w>
+            <w xml:id="w349">dem</w>
+            <w xml:id="w350">Karton</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T210" to="#T211">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T210" to="#T211">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T210" to="#T211">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T210" to="#T211">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T210" to="#T211">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T210" to="#T211">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T214" start="#T211" who="#SPK1" xml:id="au31" xmlns="http://standoff.proposal">
+        <u xml:id="u31" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg30"><pause dur="PT0.2S"/><anchor synch="#T212"/>
+            <w xml:id="w351">nein</w><anchor synch="#T213"/>
+            <w xml:id="w352">auf</w>
+            <w xml:id="w353">der</w>
+            <w xml:id="w354">linken</w>
+            <w xml:id="w355">Seite</w>
+            <w xml:id="w356">des</w>
+            <w xml:id="w357">Kartons</w>
+            <w xml:id="w358">warten</w>
+            <w xml:id="w359">wir</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T212" to="#T213">[n]:ein</span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T212" to="#T213">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T211" to="#T214">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T211" to="#T214">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T211" to="#T214">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T211" to="#T214">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T211" to="#T214">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T211" to="#T214">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T216" start="#T214" who="#SPK0" xml:id="au69" xmlns="http://standoff.proposal">
+        <u xml:id="u69" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg68"><pause dur="PT0.3S"/><anchor synch="#T215"/>
+            <w xml:id="w360">okay</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T214" to="#T216">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T214" to="#T216">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T214" to="#T216">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T214" to="#T216">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T214" to="#T216">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T214" to="#T216">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T224" start="#T216" who="#SPK1" xml:id="au32" xmlns="http://standoff.proposal">
+        <u xml:id="u32" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg31"><pause dur="PT0.3S"/><anchor synch="#T217"/>
+            <w xml:id="w361">dann</w><anchor synch="#T218"/>
+            <w xml:id="w362">folgen</w><anchor synch="#T219"/>
+            <w xml:id="w363">wir</w>
+            <w xml:id="w364">dem</w><anchor synch="#T220"/>
+            <w xml:id="w365">Weg</w><anchor synch="#T221"/>
+            <w xml:id="w366">senkrecht</w>
+            <w xml:id="w367">nach</w>
+            <w xml:id="w368">unten</w><anchor synch="#T222"/>
+            <w type="repair" xml:id="w369">b</w>
+            <w xml:id="w370">bis</w><anchor synch="#T223"/>
+            <w xml:id="w371">zur</w>
+            <w xml:id="w372">linken</w>
+            <w xml:id="w373">Seite</w>
+            <w xml:id="w374">des</w>
+            <w xml:id="w375">Bildes</w>
+          </seg>
+        </u>
+        <spanGrp type="pho" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T218" to="#T219">[f]:olgen
+          </span>
+          <span from="#T220" to="#T221">[W]:eg
+          </span>
+        </spanGrp>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T218" to="#T219">EDIT PHASE</span>
+          <span from="#T220" to="#T221">EDIT PHASE</span>
+          <span from="#T222" to="#T223">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T216" to="#T224">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T216" to="#T224">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T216" to="#T224">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T216" to="#T224">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T216" to="#T224">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T216" to="#T224">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T226" start="#T224" who="#SPK0" xml:id="au70" xmlns="http://standoff.proposal">
+        <u xml:id="u70" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg69"><pause dur="PT1.1S"/><anchor synch="#T225"/>
+            <w xml:id="w376">den</w>
+            <w xml:id="w377">habe</w>
+            <w xml:id="w378">ich</w>
+            <w xml:id="w379">nicht</w>
+            <w xml:id="w380">verstanden</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T224" to="#T226">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T224" to="#T226">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T224" to="#T226">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T224" to="#T226">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T224" to="#T226">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T224" to="#T226">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T235" start="#T226" who="#SPK1" xml:id="au33" xmlns="http://standoff.proposal">
+        <u xml:id="u33" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg32"><pause dur="PT0.5S"/><anchor synch="#T227"/>
+            <w xml:id="w381">also</w><anchor synch="#T228"/>
+            <w xml:id="w382">von</w>
+            <w xml:id="w383">der</w>
+            <w xml:id="w384">linken</w>
+            <w xml:id="w385">Seite</w>
+            <w xml:id="w386">des</w>
+            <w xml:id="w387">Karton<anchor synch="#T229"/>s</w><anchor synch="#T230"/><pause dur="PT0.3S"/><anchor synch="#T231"/>
+            <w xml:id="w388">einmal</w>
+            <w xml:id="w389">einfach</w>
+            <w xml:id="w390">runter</w>
+            <w xml:id="w391">senkrecht</w>
+            <w xml:id="w392">bi<anchor synch="#T232"/>s</w>
+            <unclear>
+              <w xml:id="w393">zur</w>
+              <w xml:id="w394">dann</w>
+            </unclear><pause dur="PT1.7S"/>
+            <unclear>
+              <w xml:id="w395">dann</w>
+            </unclear>
+            <w xml:id="w396">fährst</w>
+            <w xml:id="w397">du</w>
+            <w xml:id="w398">jetzt</w>
+            <w xml:id="w399">nach</w>
+            <w xml:id="w400">rechts</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T227" to="#T228">EDIT PHASE</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T226" to="#T235">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T226" to="#T235">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T226" to="#T235">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T226" to="#T235">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T226" to="#T235">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T226" to="#T235">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T230" start="#T229" who="#SPK0" xml:id="au71" xmlns="http://standoff.proposal">
+        <u xml:id="u71" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg70">
+            <w xml:id="w401">ja</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T229" to="#T230">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T229" to="#T230">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T229" to="#T230">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T229" to="#T230">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T229" to="#T230">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T229" to="#T230">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T233" start="#T232" who="#SPK0" xml:id="au72" xmlns="http://standoff.proposal">
+        <u xml:id="u72" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg71">
+            <w xml:id="w402">da</w>
+            <w xml:id="w403">kam</w>
+            <w xml:id="w404">ich</w>
+            <w xml:id="w405">gerade</w>
+            <w xml:id="w406">her</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T232" to="#T233">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T232" to="#T233">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T232" to="#T233">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T232" to="#T233">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T232" to="#T233">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T232" to="#T233">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T236" start="#T235" who="#SPK0" xml:id="au73" xmlns="http://standoff.proposal">
+        <u xml:id="u73" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg72">
+            <w xml:id="w407">ja</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T235" to="#T236">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T235" to="#T236">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T235" to="#T236">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T235" to="#T236">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T235" to="#T236">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T235" to="#T236">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T238" start="#T236" who="#SPK1" xml:id="au34" xmlns="http://standoff.proposal">
+        <u xml:id="u34" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg33"><pause dur="PT0.3S"/><anchor synch="#T237"/>
+            <w xml:id="w408">und</w>
+            <w xml:id="w409">dann</w>
+            <w xml:id="w410">senkrecht</w>
+            <w xml:id="w411">nach</w>
+            <w xml:id="w412">unten</w>
+            <w xml:id="w413">und</w>
+            <w xml:id="w414">dann</w>
+            <w xml:id="w415">wären</w>
+            <w xml:id="w416">wir</w>
+            <w xml:id="w417">am</w>
+            <w xml:id="w418">Ziel</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T236" to="#T238">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T236" to="#T238">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T236" to="#T238">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T236" to="#T238">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T236" to="#T238">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T236" to="#T238">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T245" start="#T238" who="#SPK0" xml:id="au74" xmlns="http://standoff.proposal">
+        <u xml:id="u74" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg73"><pause dur="PT1.2S"/><anchor synch="#T239"/>
+            <w xml:id="w419">an</w>
+            <w xml:id="w420">dem</w><anchor synch="#T240"/>
+            <w type="repair" xml:id="w421">Fake</w><anchor synch="#T241"/>
+            <w type="repair" xml:id="w422">Poke</w><anchor synch="#T242"/>
+            <w xml:id="w423">äh</w><anchor synch="#T243"/>
+            <w xml:id="w424">Paket</w><anchor synch="#T244"/>
+            <w xml:id="w425">vorbei</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T240" to="#T241">TROUBLE</span>
+          <span from="#T241" to="#T242">REPAIR</span>
+          <span from="#T241" to="#T242">TROUBLE</span>
+          <span from="#T242" to="#T243">EDIT PHASE</span>
+          <span from="#T243" to="#T244">REPAIR</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T238" to="#T245">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T238" to="#T245">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T238" to="#T245">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T238" to="#T245">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T238" to="#T245">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T238" to="#T245">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T250" start="#T245" who="#SPK1" xml:id="au35" xmlns="http://standoff.proposal">
+        <u xml:id="u35" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg34">
+            <w xml:id="w426">unten</w>
+            <w xml:id="w427">an</w>
+            <w xml:id="w428">dem</w><anchor synch="#T246"/>
+            <w type="repair" xml:id="w429">Fa</w><anchor synch="#T247"/>
+            <w xml:id="w430">Paket</w><anchor synch="#T248"/>
+            <w xml:id="w431">vor<anchor synch="#T249"/>bei</w>
+          </seg>
+        </u>
+        <spanGrp type="disfluency" xmlns="http://www.tei-c.org/ns/1.0">
+          <span from="#T246" to="#T247">TROUBLE</span>
+          <span from="#T247" to="#T248">REPAIR</span>
+        </spanGrp>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T245" to="#T250">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T245" to="#T250">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T245" to="#T250">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T245" to="#T250">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T245" to="#T250">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T245" to="#T250">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T251" start="#T249" who="#SPK0" xml:id="au75" xmlns="http://standoff.proposal">
+        <u xml:id="u75" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg74">
+            <w xml:id="w432">unten</w><anchor synch="#T250"/>
+            <w xml:id="w433">alles</w>
+            <w xml:id="w434">klar</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T249" to="#T251">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T249" to="#T251">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T249" to="#T251">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T249" to="#T251">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T249" to="#T251">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T249" to="#T251">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T254" start="#T251" who="#SPK1" xml:id="au36" xmlns="http://standoff.proposal">
+        <u xml:id="u36" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg35">
+            <w xml:id="w435">ja</w><anchor synch="#T252"/><pause dur="PT0.8S"/><anchor synch="#T253"/>
+            <w xml:id="w436">und</w>
+            <w xml:id="w437">dann</w>
+            <w xml:id="w438">einfach</w>
+            <w xml:id="w439">eine</w>
+            <w xml:id="w440">senkrechte</w>
+            <w xml:id="w441">Linie</w>
+            <w xml:id="w442">ins</w>
+            <w xml:id="w443">Ziel</w>
+            <w xml:id="w444">ziehen</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T251" to="#T254">Ruf</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T251" to="#T254">Rufus</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T251" to="#T254">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T251" to="#T254">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T251" to="#T254">pol;deu</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T251" to="#T254">eng</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+      <annotationGrp end="#T256" start="#T254" who="#SPK0" xml:id="au76" xmlns="http://standoff.proposal">
+        <u xml:id="u76" xmlns="http://www.tei-c.org/ns/1.0">
+          <seg subtype="not_classified" type="utterance" xml:id="seg75"><pause dur="PT0.9S"/><anchor synch="#T255"/>
+            <w xml:id="w445">alles</w>
+            <w xml:id="w446">klar</w>
+          </seg>
+        </u>
+        <tei:spanGrp type="speaker:Sigle">
+          <tei:span from="#T254" to="#T256">Dav</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Pseudo">
+          <tei:span from="#T254" to="#T256">David</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Sex">
+          <tei:span from="#T254" to="#T256">male</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:Function">
+          <tei:span from="#T254" to="#T256">subject</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L1">
+          <tei:span from="#T254" to="#T256">deu;fra</tei:span>
+        </tei:spanGrp>
+        <tei:spanGrp type="speaker:language:L2">
+          <tei:span from="#T254" to="#T256">eng;spa</tei:span>
+        </tei:spanGrp>
+      </annotationGrp>
+    </body>
+  </text>
+</TEI>
